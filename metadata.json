@@ -1,0 +1,6 @@
+{
+  "name": "Voz & Voto: Radar Cívico e Transparência Legislativa",
+  "description": "Plataforma de inteligência cívica que converte ressentimento em responsabilização factual: traduz projetos de lei, exibe votações nominais da Câmara e Senado e mapeia competências reais sem viés político.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
